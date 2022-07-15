@@ -1,2 +1,2 @@
-# Codeforces
+# Competitive programming
 Solutions
